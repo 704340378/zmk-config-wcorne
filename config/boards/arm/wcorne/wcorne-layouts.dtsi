@@ -3,7 +3,7 @@
 / {
     wcorne_layout: wcorne_layout {
         compatible = "zmk,physical-layout";
-        display-name = "Layout";
+        display-name = "Default";
 
         transform = <&default_transform>;
 
