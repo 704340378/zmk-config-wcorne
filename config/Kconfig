@@ -3,8 +3,8 @@
 # SPDX-License-Identifier: MIT
 #
 
-config BOARD_CORNE_LEFT
+config BOARD_WCORNE_LEFT
     bool
 
-config BOARD_CORNE_RIGHT
+config BOARD_WCORNE_RIGHT
     bool
