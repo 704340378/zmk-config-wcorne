@@ -1,7 +1,7 @@
 file_format: "1"
-id: corne
+id: wcorne
 name: Sofle
-url: https://github.com/tokyo2006/zmk-config-corne
+url: 
 type: board
 arch: arm
 features:
